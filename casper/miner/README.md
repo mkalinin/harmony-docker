@@ -13,7 +13,9 @@ docker build -t harmony-miner:casper .
 docker run -d --name miner -eCOINBASE=cd2a3d9f938e13cd947ec05abc7fe734df8dd826 harmony-miner:casper
 ```
 
-**Configuration:**
+**Configuration options:**
+
+Passed via ENV variables to the container
 ```
 # path to genesis file
 # default: casper.json

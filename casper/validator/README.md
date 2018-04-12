@@ -13,7 +13,10 @@ docker build -t harmony-validator:casper .
 docker run -d --name miner -eVALIDATOR_KEY=41791102999c339c844880b23950704cc43aa840f3739e365323cda4dfa89e7a harmony-validator:casper
 ```
 
-**Configuration:**
+**Configuration options:**
+
+Passed via ENV variables to the container
+
 ```
 # path to genesis file
 # default: casper.json
