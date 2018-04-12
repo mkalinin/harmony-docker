@@ -15,7 +15,7 @@ docker-compose up
 ```
 **Note:** it takes some time to build images and get DAG file generated
 
-### Check status
+**Check status**
 
 Open http://localhost:8080 in your browser to get miner status and logs. 
 
@@ -23,7 +23,7 @@ There is a Casper tab to display votes, epoch initialing, deposits, withdrawals 
 
 **Note:** if you use Mac then replace `localhost` with address of the docker machine.
 
-### Validator
+## Validator
 
 By default validator starts in automatic fashion. 
 To change validator state go to http://localhost:8081/terminal.
