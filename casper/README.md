@@ -1,12 +1,12 @@
 # Description
-Demo rig for Casper FFG
+Demo rig for Casper FFG. This sample runs two peers: miner and validator in a private network to show Casper contract interactions.
 
 ## Run
 
 **Prerequisites:**
 - Install [docker](https://docs.docker.com/install/)
 - Install [docker-compose](https://docs.docker.com/compose/install/)
-
+- Requires 4 GB of RAM
 
 **Use command line:**
 ```
