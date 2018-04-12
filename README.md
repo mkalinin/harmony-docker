@@ -1,5 +1,5 @@
 # Harmony docker
-Dockers with Harmony node, Ethereum client written in Java.
+General place to keep docker images and rigs based on Harmony client
 
 ## Ethereum Harmony project 
 http://github.com/ether-camp/ethereum-harmony
