@@ -1,5 +1,5 @@
 # Description
-Demo rig for Casper FFG. This sample runs two peers: miner and validator in a private network to show Casper contract interactions.
+Demo rig for Casper FFG. This sample runs two Harmony peers: miner and validator in a private network to show Casper contract interactions.
 
 ## Run
 
