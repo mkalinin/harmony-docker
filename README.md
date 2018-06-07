@@ -1,3 +1,6 @@
+# Moved to
+https://github.com/harmony-dev/docker
+
 # Harmony docker
 General place to keep docker images and rigs based on Harmony client
 
